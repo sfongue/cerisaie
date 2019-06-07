@@ -4,5 +4,6 @@ use Luracast\Restler\Defaults;
 Defaults::$smartAutoRouting = false;
 $r = new Restler();
 $r->addAPIClass('typeEmplacement');
+$r->addAPIClass('activite');
 $r->handle();
 ?>
