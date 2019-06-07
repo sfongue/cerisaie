@@ -11,22 +11,22 @@ $ressource='{"prenom":"totio","nom":"totoiNom"}';
 curl_setopt($ch, CURLOPT_URL, "http://localhost/service-api/cerisaie/index.php/client");
 */
 
-/*		ACTIVITE
+/*		ACTIVITE (param de ressource à vérifier)
 $ressource='{"libelle":"testActivite","unite":"1/2 journee","tarif":5.4}';
 curl_setopt($ch, CURLOPT_URL, "http://localhost/service-api/cerisaie/index.php/activite");
 */
 
-/*		RESERVATION
+/*		RESERVATION (param de ressource à faire)
 $ressource='{"prenom":"totio","nom":"totoiNom"}';
 curl_setopt($ch, CURLOPT_URL, "http://localhost/service-api/cerisaie/index.php/reservation");
 */
 
-/*		SEJOUR
+/*		SEJOUR (param de ressource à faire)
 $ressource='{"prenom":"totio","nom":"totoiNom"}';
 curl_setopt($ch, CURLOPT_URL, "http://localhost/service-api/cerisaie/index.php/sejour");
 */
 
-/*		EMPLACEMENT
+/*		EMPLACEMENT (param de ressource à faire)
 $ressource='{"prenom":"totio","nom":"totoiNom"}';
 curl_setopt($ch, CURLOPT_URL, "http://localhost/service-api/cerisaie/index.php/emplacement");
 */

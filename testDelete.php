@@ -8,22 +8,22 @@ curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'DELETE');
 */
 
 /*		ACTIVITE
-curl_setopt($ch, CURLOPT_URL,"http://localhost/service-api/cerisaie/index.php/client/8"); // configuration de l'URL
+curl_setopt($ch, CURLOPT_URL,"http://localhost/service-api/cerisaie/index.php/activite/8"); // configuration de l'URL
 curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'DELETE');
 */
 
 /*		RESERVATION
-curl_setopt($ch, CURLOPT_URL,"http://localhost/service-api/cerisaie/index.php/client/8"); // configuration de l'URL
+curl_setopt($ch, CURLOPT_URL,"http://localhost/service-api/cerisaie/index.php/reservation/8"); // configuration de l'URL
 curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'DELETE');
 */
 
 /*		SEJOUR
-curl_setopt($ch, CURLOPT_URL,"http://localhost/service-api/cerisaie/index.php/client/8"); // configuration de l'URL
+curl_setopt($ch, CURLOPT_URL,"http://localhost/service-api/cerisaie/index.php/sejour/8"); // configuration de l'URL
 curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'DELETE');
 */
 
 /*		EMPLACEMENT
-curl_setopt($ch, CURLOPT_URL,"http://localhost/service-api/cerisaie/index.php/client/8"); // configuration de l'URL
+curl_setopt($ch, CURLOPT_URL,"http://localhost/service-api/cerisaie/index.php/emplacement/8"); // configuration de l'URL
 curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'DELETE');
 */
 
