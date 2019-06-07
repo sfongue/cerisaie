@@ -10,4 +10,5 @@ Projet réalisé par :
 - La partie front-end
 
 # Fait #
+Script pour la base de données MySQL : __cerisaie.sql__\
 Trello : ![Alt Text](https://github.com/sfongue/cerisaie/blob/master/trello.PNG)
